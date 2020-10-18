@@ -1,0 +1,65 @@
+INF:20200815:140800.571: Start Watcher
+INF:20200815:140801.071: Socket::read instance_0 pendingIO state 1
+DBG:20200815:140801.072: Socket::read instance_0 GetOverlappedResult read 0, dwErr 0
+DBG:20200815:140801.072: Socket::read instance_0 read size 0, fSuccess 0
+ERR:20200815:140801.072: Socket::read instance_0 failed with error code 997
+INF:20200815:140801.122: Socket::read instance_0 pendingIO state 1
+DBG:20200815:140801.123: Socket::read instance_0 GetOverlappedResult read 6, dwErr 0
+INF:20200815:140801.123: register process
+INF:20200815:140801.123: pid 43424
+INF:20200815:140801.123: isCritical 0
+INF:20200815:140801.123: Processes size: 1
+INF:20200815:140801.123: Socket::read instance_0 pendingIO state 0
+INF:DBG:20200815:140801.410: Start monitoring20200815:140801.410: 
+Socket::read instance_0 read size 0, fSuccess 0
+ERR:20200815:140801.410: Socket::read instance_0 failed with error code 997
+INF:20200815:140802.564: Socket::read instance_1 pendingIO state 1
+DBG:20200815:140802.564: Socket::read instance_1 GetOverlappedResult read 0, dwErr 0
+DBG:20200815:140802.564: Socket::read instance_1 read size 6, fSuccess 1
+INF:20200815:140802.564: register process
+INF:20200815:140802.564: pid 46216
+INF:20200815:140802.564: isCritical 0
+INF:20200815:140802.564: Processes size: 2
+INF:20200815:140802.564: Socket::read instance_1 pendingIO state 0
+DBG:20200815:140802.564: Socket::read instance_1 read size 0, fSuccess 0
+ERR:20200815:140802.564: Socket::read instance_1 failed with error code 997
+INF:20200815:140802.615: Socket::read instance_2 pendingIO state 1
+DBG:20200815:140802.615: Socket::read instance_2 GetOverlappedResult read 0, dwErr 0
+DBG:20200815:140802.615: Socket::read instance_2 read size 6, fSuccess 1
+INF:20200815:140802.615: register process
+INF:20200815:140802.615: pid 35416
+INF:20200815:140802.615: isCritical 0
+INF:20200815:140802.615: Processes size: 3
+INF:20200815:140802.615: Socket::read instance_2 pendingIO state 0
+DBG:20200815:140802.615: Socket::read instance_2 read size 0, fSuccess 0
+ERR:20200815:140802.615: Socket::read instance_2 failed with error code 997
+INF:20200815:140802.665: Socket::read instance_3 pendingIO state 1
+DBG:20200815:140802.665: Socket::read instance_3 GetOverlappedResult read 0, dwErr 0
+DBG:20200815:140802.665: Socket::read instance_3 read size 6, fSuccess 1
+INF:20200815:140802.665: register process
+INF:20200815:140802.665: pid 23280
+INF:20200815:140802.666: isCritical 0
+INF:20200815:140802.666: Processes size: 4
+INF:20200815:140802.666: Socket::read instance_3 pendingIO state 0
+DBG:20200815:140802.666: Socket::read instance_3 read size 0, fSuccess 0
+ERR:20200815:140802.666: Socket::read instance_3 failed with error code 997
+INF:20200815:140802.824: Socket::read instance_4 pendingIO state 1
+DBG:20200815:140802.824: Socket::read instance_4 GetOverlappedResult read 0, dwErr 0
+DBG:20200815:140802.824: Socket::read instance_4 read size 6, fSuccess 1
+INF:20200815:140802.824: register process
+INF:20200815:140802.824: pid 46964
+INF:20200815:140802.824: isCritical 1
+INF:20200815:140802.824: Processes size: 5
+INF:20200815:140802.824: Socket::read instance_4 pendingIO state 0
+DBG:20200815:140802.824: Socket::read instance_4 read size 0, fSuccess 0
+ERR:20200815:140802.824: Socket::read instance_4 failed with error code 109
+INF:20200815:140802.824: DisconnectAndReconnect start for 4
+INF:20200815:151653.131: Socket::read instance_5 pendingIO state 1
+DBG:20200815:151653.131: Socket::read instance_5 GetOverlappedResult read 0, dwErr 0
+DBG:20200815:151653.131: Socket::read instance_5 read size 5, fSuccess 1
+INF:20200815:151653.131: unregister process
+INF:20200815:151653.131: pid 46964
+INF:20200815:151653.131: isCritical 1
+INF:20200815:151653.173: End monitoring
+INF:20200815:151659.375: End Watcher
+INF:20200815:151659.376: Terminating application
